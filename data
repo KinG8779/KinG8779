@@ -1,0 +1,552 @@
+
+    d Districts: [
+id: 1d District Bahawalpur
+      name: بہاولپور: division_id: 1: province_idFk: 1
+      
+id: 2d District Bahawalnagar
+      name: بھاولنگر: division_id: 1: province_idFk: 1
+      
+id: 3d District Rahim Yar Khan
+      name: رحیم یار خان: division_id: 1: province_idFk: 1
+      
+id: 4d District Dera Ghazi Khan
+      name: ڈیرہ غازی خان: division_id: 2: province_idFk: 1
+      
+id: 5d District Rajanpur
+      name: راجن پور: division_id: 2: province_idFk: 1
+      
+id: 6d District Layyah
+      name: لیہ: division_id: 2: province_idFk: 1
+      
+id: 7d District Muzaffargarh
+      name: مظفر گڑھ: division_id: 2: province_idFk: 1
+      
+id: 8d District Faisalabad
+      name: فیصل آباد: division_id: 3: province_idFk: 1
+      
+id: 9d District Jhang
+      name: جھنگ: division_id: 3: province_idFk: 1
+      
+id: 10d District Chiniot
+      name: چنیوٹ: division_id: 3: province_idFk: 1
+      
+id: 11d District Toba Tek Singh
+      name: ٹوبہ ٹیک سنگھ: division_id: 3: province_idFk: 1
+      
+id: 12d District Gujranwala
+      name: گوجرانوالہ: division_id: 4: province_idFk: 1
+      
+id: 13d District Hafizabad
+      name: حافظ آباد: division_id: 4: province_idFk: 1
+      
+id: 14d District Mandi Bahauddin
+      name: منڈی بہاوالدین: division_id: 4: province_idFk: 1
+      
+id: 15d District Gujrat
+      name: گجرات: division_id: 4: province_idFk: 1
+      
+id: 16d District Sialkot
+      name: سيالكوٹ: division_id: 4: province_idFk: 1
+      
+id: 17d District Narowal
+      name: نارووال: division_id: 4: province_idFk: 1
+      
+id: 18d District Lahore
+      name: لاہور: division_id: 5: province_idFk: 1
+      
+id: 19d District Kasur
+      name: قصور: division_id: 5: province_idFk: 1
+      
+id: 20d District Sheikhupura
+      name: شیخوپورہ: division_id: 5: province_idFk: 1
+      
+id: 21d District Nankana Sahib
+      name: ننکانہ: division_id: 5: province_idFk: 1
+      
+id: 22d District Multan
+      name: ملتان: division_id: 6: province_idFk: 1
+      
+id: 23d District Vehari
+      name: ‬وہاڑی: division_id: 6: province_idFk: 1
+      
+id: 24d District Lodhran
+      name: لودھراں: division_id: 6: province_idFk: 1
+      
+id: 25d District Khanewal
+      name: خانیوال: division_id: 6: province_idFk: 1
+      
+id: 26d District Rawalpindi
+      name: راولپنڈی: division_id: 7: province_idFk: 1
+      
+id: 27d District Attock
+      name: اٹک: division_id: 7: province_idFk: 1
+      
+id: 28d District Jehlum
+      name: جہلم: division_id: 7: province_idFk: 1
+      
+id: 29d District Chakwal
+      name: چکوال: division_id: 7: province_idFk: 1
+      
+id: 30d District Sahiwal
+      name: ساہیوال: division_id: 8: province_idFk: 1
+      
+id: 31d District Okara
+      name: اوکاڑا: division_id: 8: province_idFk: 1
+      
+id: 32d District Pakpattan
+      name: پاکپتن: division_id: 8: province_idFk: 1
+      
+id: 33d District Sargodha
+      name: سرگودھا: division_id: 9: province_idFk: 1
+      
+id: 34d District Bhakkar
+      name: بھکر: division_id: 9: province_idFk: 1
+      
+id: 35d District Khushab
+      name: خوشاب: division_id: 9: province_idFk: 1
+      
+id: 36d District Mianwali
+      name: میانوالی: division_id: 9: province_idFk: 1
+      l
+    
+    
+    
+    
+    
+    t Tehsils: [
+      {
+id: 1t Tehsil Ahmadpur EasT.
+urdu_name: احمد پور شرقیہ
+       
+id: 2t Tehsil Bahawalpur CiTy.
+urdu_name: بہاولپور سٹی
+       
+id: 3t Tehsil Bahawalpur Saddar.
+urdu_name: بہاولپور صدر
+       
+id: 4t Tehsil Hasilpur.
+urdu_name: حاصل پور
+       
+id: 5t Tehsil Khairpur.
+urdu_name: خیرپور
+       
+id: 6t Tehsil Yazman.
+urdu_name: یزمان
+       
+id: 7t Tehsil Bahawalnagar.
+urdu_name: بھاولنگر
+       
+id: 8t Tehsil ChishTian.
+urdu_name: چشتتیاں
+       
+id: 9t Tehsil ForT Abbas.
+urdu_name: فورٹ عباس
+       
+id: 10t Tehsil Haroonabad.
+urdu_name: ھارون آباد
+       
+id: 11t Tehsil Minchinabad.
+urdu_name: منچن آباد
+       
+id: 12t Tehsil Khanpur.
+urdu_name: خان پور
+       
+id: 13t Tehsil LiaquaTpur.
+urdu_name: لیاقت پور
+       
+id: 14t Tehsil Rahim Yar Khan.
+urdu_name: رحیم یار خان
+       
+id: 15t Tehsil Sadiqabad.
+urdu_name: صادق آباد
+       
+id: 16t Tehsil De-ex. Area Of D.g.khan.
+urdu_name: ڈی جی خان کا ڈی ای ایکس ایریا
+       
+id: 17t Tehsil Dera Ghazi Khan.
+urdu_name: ڈیرہ غازی خان
+       
+id: 18t Tehsil Taunsa.
+urdu_name: تونسہ
+       
+id: 19t Tehsil KoT ChuTTa.
+urdu_name: کوٹ چھٹہ
+       
+id: 20t Tehsil De-ex. Area Of Rajanpur.
+urdu_name: راجن پور کا ڈی ای ایکس ایریا
+       
+id: 21t Tehsil Jampur.
+urdu_name: جام پور
+       
+id: 22t Tehsil Rajanpur.
+urdu_name: راجن پور
+       
+id: 23t Tehsil Rojhan.
+urdu_name: روجھان
+       
+id: 24t Tehsil Chaubara.
+urdu_name: چوبارہ
+       
+id: 25t Tehsil Karor Lal Esan.
+urdu_name: کروڑلعل عیسن
+       
+id: 26t Tehsil Layyah.
+urdu_name: لیہ
+       
+id: 27t Tehsil Alipur.
+urdu_name: علی پور
+       
+id: 28t Tehsil JaToi.
+urdu_name: جتوئی
+       
+id: 29t Tehsil KoT Addu.
+urdu_name: کوٹ اد و
+       
+id: 30t Tehsil Muzaffargarh.
+urdu_name: مظفر گڑھ
+       
+id: 31t Tehsil Chak Jhumra.
+urdu_name: چک جھمرہ
+       
+id: 32t Tehsil Faisalabad CiTy.
+urdu_name: فیصل آباد سٹی
+       
+id: 33t Tehsil Faisalabad Saddar.
+urdu_name: فیصل‪ ‬آباد‪ ‬صدر
+       
+id: 34t Tehsil Jaranwala.
+urdu_name: جڑانوالہ
+       
+id: 35t Tehsil Sammundri.
+urdu_name: ‬سمندری
+       
+id: 36t Tehsil Tandlianwala.
+urdu_name: تاندلیانوالہ
+       
+id: 37t Tehsil 18-hazari.
+urdu_name: ۱۸ ہزاری
+       
+id: 38t Tehsil Ahmedpur Sial.
+urdu_name: احمد پور سیال
+       
+id: 39t Tehsil Jhang.
+urdu_name: ‪جھنگ‬
+       
+id: 40t Tehsil ShorkoT.
+urdu_name: شورکوٹ
+       
+id: 41t Tehsil Bhawana.
+urdu_name: بھوآ نہ
+       
+id: 42t Tehsil ChinioT.
+urdu_name: چنیوٹ
+       
+id: 43t Tehsil Lalian.
+urdu_name: لالیاں
+       
+id: 44t Tehsil Gojra.
+urdu_name: گوجرہ
+       
+id: 45t Tehsil Kamalia.
+urdu_name: کمالیہ
+       
+id: 46t Tehsil Pir Mahal.
+urdu_name: پیر محل
+       
+id: 47t Tehsil Toba Tek Singh.
+urdu_name: ٹوبہ ٹیک سنگھ
+       
+id: 48t Tehsil Gujranwala CiTy.
+urdu_name: گوجرانوالہ سٹی
+       
+id: 49t Tehsil Gujranwala Saddar.
+urdu_name: گوجرانوالہ صدر
+       
+id: 50t Tehsil Kamoke.
+urdu_name: کامونکی
+       
+id: 51t Tehsil Nowshera Virkan.
+urdu_name: نوشہرہ ورکاں
+       
+id: 52t Tehsil Wazirabad.
+urdu_name: وزیرآباد
+       
+id: 53t Tehsil Hafizabad.
+urdu_name: حافظ آباد
+       
+id: 54t Tehsil Pindi BhaTTian.
+urdu_name: پِنڈى بهٹياں
+       
+id: 55t Tehsil Malikwal.
+urdu_name: ملکوال
+       
+id: 56t Tehsil Mandi Bahauddin.
+urdu_name: منڈی بہاو الدین
+       
+id: 57t Tehsil Phalia.
+urdu_name: پھالیہ
+       
+id: 58t Tehsil GujraT.
+urdu_name: گجرات
+       
+id: 59t Tehsil Kharian.
+urdu_name: کھاریاں
+       
+id: 60t Tehsil Sarai Alamgir.
+urdu_name: سرائے عالمگیر
+       
+id: 61t Tehsil Daska.
+urdu_name: ڈسکہ
+       
+id: 62t Tehsil Pasrur.
+urdu_name: پسرور
+       
+id: 63t Tehsil Sambrial.
+urdu_name: سمبڑيال
+       
+id: 64t Tehsil SialkoT.
+urdu_name: سيالكوٹ
+       
+id: 65t Tehsil Narowal.
+urdu_name: نارووال
+       
+id: 66t Tehsil Shakargarh.
+urdu_name: شکَرگڑھ
+       
+id: 67t Tehsil Zafarwal.
+urdu_name: ظفروال
+       
+id: 68t Tehsil Lahore CanTT..
+urdu_name: لاہور کینٹ
+       
+id: 69t Tehsil Lahore CiTy.
+urdu_name: لاہور سٹی
+       
+id: 70t Tehsil Model Town.
+urdu_name: ماڈل ٹاؤن
+       
+id: 71t Tehsil Raiwind.
+urdu_name: رائے ونڈ
+       
+id: 72t Tehsil Shalimar.
+urdu_name: شالیمار
+       
+id: 73t Tehsil Chunian.
+urdu_name: چونیاں
+       
+id: 74t Tehsil Kasur.
+urdu_name: قصور
+       
+id: 75t Tehsil KoT Radha Kishan.
+urdu_name: کوٹ رادھا کشن
+       
+id: 76t Tehsil PaTToki.
+urdu_name: پتوکی
+       
+id: 77t Tehsil Ferozewala.
+urdu_name: فیروزوالہ
+       
+id: 78t Tehsil Muridkay.
+urdu_name: مریدکے
+       
+id: 79t Tehsil Safdarabad.
+urdu_name: صفدرآباد
+       
+id: 80t Tehsil Sharaqpur.
+urdu_name: شرقپور
+       
+id: 81t Tehsil Sheikhupura.
+urdu_name: شیخوپورہ
+       
+id: 82t Tehsil Nankana Sahib.
+urdu_name: ننکانہ صاحب
+       
+id: 83t Tehsil Sangla Hill.
+urdu_name: سانگلہ ہِل
+       
+id: 84t Tehsil ShahkoT.
+urdu_name: شاہ کوٹ
+       
+id: 85t Tehsil Jalalpur Pirwala.
+urdu_name: جلالپور پیر والا
+       
+id: 86t Tehsil MulTan CiTy.
+urdu_name: ملتان
+       
+id: 87t Tehsil MulTan Saddar.
+urdu_name: ملتان صدر
+       
+id: 88t Tehsil Shujabad.
+urdu_name: شجاع آباد
+       
+id: 89t Tehsil Burewala.
+urdu_name: ‬بوریوالہ
+       
+id: 90t Tehsil Mailsi.
+urdu_name: ‬میلسی
+       
+id: 91t Tehsil Vehari.
+urdu_name: ‬وہاڑی
+       
+id: 92t Tehsil Dunyapur.
+urdu_name: دنیا پور
+       
+id: 93t Tehsil Kahror Pacca.
+urdu_name: کہروڑ پکا
+       
+id: 94t Tehsil Lodhran.
+urdu_name: لودھراں
+       
+id: 95t Tehsil Jehanian.
+urdu_name: جہانیاں
+       
+id: 96t Tehsil Kabirwala.
+urdu_name: کبیر والا
+       
+id: 97t Tehsil Khanewal.
+urdu_name: خانیوال
+       
+id: 98t Tehsil Mian Channu.
+urdu_name: میاں چنوں
+       
+id: 99t Tehsil Gujar Khan.
+urdu_name: گجر خان
+       
+id: 100t Tehsil KahuTa.
+urdu_name: کہوٹہ
+       
+id: 101t Tehsil Kallar Sayyedan.
+urdu_name: کلر سیدان
+       
+id: 102t Tehsil KoTli SaTTian.
+urdu_name: کوٹلی ستیان
+       
+id: 103t Tehsil Murree.
+urdu_name: مری
+       
+id: 104t Tehsil Rawalpindi.
+urdu_name: راولپنڈی سٹی
+       
+id: 105t Tehsil Taxila.
+urdu_name: ٹيکسلا
+       
+id: 106t Tehsil ATTock.
+urdu_name: اٹک
+       
+id: 107t Tehsil FaTeh Jang.
+urdu_name: فتح جنگ
+       
+id: 108t Tehsil Hassan Abdal\r\n.
+urdu_name: حسَن ابدال‎\r\n
+       
+id: 109t Tehsil Hazro.
+urdu_name: حضرو‎\r\n
+       
+id: 110t Tehsil Jand.
+urdu_name: جنڈ
+       
+id: 111t Tehsil Pindi Gheb.
+urdu_name: پنڈی گھیب
+       
+id: 112t Tehsil Dina.
+urdu_name: دینہ
+       
+id: 113t Tehsil Jhelum.
+urdu_name: جہلم
+       
+id: 114t Tehsil Pind Dadan Khan.
+urdu_name: پنڈ داد نخان
+       
+id: 115t Tehsil Sohawa.
+urdu_name: سوہاوہ
+       
+id: 116t Tehsil Chakwal.
+urdu_name: چکوال
+       
+id: 117t Tehsil Choa Saidan Shah.
+urdu_name: چوا سیدن شاہ
+       
+id: 118t Tehsil Kallar Kahar.
+urdu_name: کلرکہار
+       
+id: 119t Tehsil Lawa.
+urdu_name: لاوہ
+       
+id: 120t Tehsil Talagang.
+urdu_name: تلہ گنگ
+       
+id: 121t Tehsil ChichawaTni.
+urdu_name: چیچہ وطنی
+       
+id: 122t Tehsil Sahiwal.
+urdu_name: ساہیوال
+       
+id: 123t Tehsil Depalpur.
+urdu_name: دیپالپور
+       
+id: 124t Tehsil Okara.
+urdu_name: اوکاڑہ
+       
+id: 125t Tehsil Renala Khurd.
+urdu_name: رینالہ خورد
+       
+id: 126t Tehsil Arifwala.
+urdu_name: عارفوالا
+       
+id: 127t Tehsil PakpaTTan.
+urdu_name: پاکپتن
+       
+id: 128t Tehsil Bhalwal.
+urdu_name: بھلوال
+       
+id: 129t Tehsil Bhera.
+urdu_name: بھیرہ
+       
+id: 130t Tehsil KoT Momin.
+urdu_name: کوٹ مومن
+       
+id: 131t Tehsil Sahiwal.
+urdu_name: ساہیوال
+       
+id: 132t Tehsil Sargodha.
+urdu_name: سرگودھا
+       
+id: 133t Tehsil Shahpur.
+urdu_name: شاہ پور
+       
+id: 134t Tehsil Sillanwali.
+urdu_name: سلانوالی
+       
+id: 135t Tehsil Bhakkar.
+urdu_name: بھکر
+       
+id: 136t Tehsil Darya Khan.
+urdu_name: دریا‪ ‬خان
+       
+id: 137t Tehsil Kalur KoT.
+urdu_name: کلورکوٹ
+       
+id: 138t Tehsil Mankera.
+urdu_name: منکیرہ
+       
+id: 139t Tehsil Khushab.
+urdu_name: خوشاب
+       
+id: 140t Tehsil Naushehra.
+urdu_name: نَوشہره
+       
+id: 141t Tehsil Noorpur.
+urdu_name: نورپور
+       
+id: 142t Tehsil Quaidabad.
+urdu_name: قائد آباد
+       
+id: 143t Tehsil Isa Khel.
+urdu_name: عیسی خیل
+       
+id: 144t Tehsil Mianwali.
+urdu_name: میانوالی
+       
+id: 145t Tehsil Piplan
+urdu_name: پپلاں
+      }
